@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+pinn_curved_beam.png
+results/
+outputs/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
